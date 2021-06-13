@@ -1,0 +1,6 @@
+module Pods_scrap_scrapTests {
+  umbrella header "Pods-scrap-scrapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

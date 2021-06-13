@@ -1,0 +1,6 @@
+module Pods_scrap {
+  umbrella header "Pods-scrap-umbrella.h"
+
+  export *
+  module * { export * }
+}
